@@ -1,7 +1,7 @@
 package main;
-// Name: Kashvi Singh
+// Name: Krrish Sinha
 
-// PRN: 23070126057
+// PRN: 23070126063
 // Batch: AIML A3
 
 // Main.java
